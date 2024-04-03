@@ -5,11 +5,7 @@ function App() {
 
   return (
     <>
-     <Header/>
-     <Container>
-      <Reservation/>
-     </Container>
-     <Footer/>
+     Hello world 
     </>
   )
 }
