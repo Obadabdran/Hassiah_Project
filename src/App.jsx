@@ -1,5 +1,5 @@
 import {Header,Footer,ClientsInfo} from './secations/index'
-import {Container,Reservation} from  './components/index'
+import {Container} from  './components/index'
 function App() {
   
 
